@@ -1,0 +1,10 @@
+multi-cloud-data-lake/
+├── airflow_dags/
+│   └── ingest_to_iceberg.py
+├── trino_queries/
+│   └── iceberg_query.sql
+├── config/
+│   └── iceberg_catalog.yaml
+├── docker/
+│   └── docker-compose.yml
+├── README.md
